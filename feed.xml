@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haedine Projects, LLC</title>
+    <description>Software company focused on providing custom software solutions for streamlining and  automating business processes.
+</description>
+    <link>http://haedineprojects.github.io//</link>
+    <atom:link href="http://haedineprojects.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Mar 2016 17:14:01 -0500</pubDate>
+    <lastBuildDate>Sat, 12 Mar 2016 17:14:01 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Making it official!</title>
+        <description>&lt;p&gt;We are getting serious about offering business software solutions, and we are actively looking for contracts! Many businesses are not aware how many of their processes are both error prone and inefficient, and with some careful examination and thought, many of them can be cleaned up and streamlined to run much more smoothly.&lt;/p&gt;
+
+&lt;p&gt;We have a lot of experience both automating processes and storing complex data. We can create data storage systems to provide a backbone for your internal processes and obviate the need to store data in cludgy and error prone excel spreadsheets.&lt;/p&gt;
+
+&lt;p&gt;Get in touch with us if we can help you out with anything!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Mar 2016 15:34:01 -0500</pubDate>
+        <link>http://haedineprojects.github.io//company/update/2016/03/12/making-it-official.html</link>
+        <guid isPermaLink="true">http://haedineprojects.github.io//company/update/2016/03/12/making-it-official.html</guid>
+        
+        
+        <category>company</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
